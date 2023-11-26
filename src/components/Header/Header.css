@@ -1,0 +1,6 @@
+header.header-area #basic-navbar-nav a {
+  padding: 10px !important;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
