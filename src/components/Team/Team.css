@@ -1,0 +1,41 @@
+.single-team {
+    border: 1px solid #ededed;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.team-head {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+}
+.team-name {
+    font-weight: 600;
+    font-size: 20px;
+}
+.team-body {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+    padding: 10px 0;
+}
+.team-age {
+    font-size: 20px;
+    font-weight: 500;
+}
+.team-country img {
+    height: 30px;
+}
+
+.team-image {
+    display: flex;
+    justify-content: center;
+}
+.team-image img {
+    max-width: 350px;
+}
+.drivers img {
+    height: 100px;
+}

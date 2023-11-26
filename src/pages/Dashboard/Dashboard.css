@@ -1,0 +1,21 @@
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+.sidebar ul {
+    margin: 0;
+    padding: 0;
+}
+.sidebar ul li {
+    list-style: none;
+    padding: 5px 10px;
+    border-bottom: 1px solid #ededed;
+}
+.sidebar ul li:first-child {
+    border-top: 1px solid #ededed;
+}
+.sidebar ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}

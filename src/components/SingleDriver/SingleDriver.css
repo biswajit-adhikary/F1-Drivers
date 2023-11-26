@@ -1,0 +1,13 @@
+.single-driver-row {
+    display: flex;
+    border-bottom: 1px solid #ededed;
+    padding: 10px 0;
+}
+.single-driver-row div {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.single-driver-row img {
+    height: 30px;
+}
